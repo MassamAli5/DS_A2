@@ -145,8 +145,8 @@ Any subsequent changes to the dataset-sharing arrangements, code, analysis decis
 
 ## AI Assistance
 
-AI assistance was used to explain statistical concepts, suggest analysis methods and Python code, support troubleshooting, and draft methodological documentation.
+AI assistance was used to Python code, and support troubleshooting. 
 
-Executed outputs, arithmetic checks, rejected or revised advice, and independent verification will be documented in the AI-use verification log before final submission.
+Executed outputs, arithmetic checks, rejected or revised advice, and independent verification before final submission.
 
 
