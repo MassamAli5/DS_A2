@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains a reproducible statistical investigation of rare earth element and yttrium (ΣREY) enrichment in sedimentary phosphorites, developed for the Data Science DS-A2 assignment.
+This repository contains a reproducible statistical investigation of rare earth element and yttrium (ΣREY) enrichment in sedimentary phosphorites.
 
 The investigation uses published bulk-rock and in situ apatite geochemical observations from:
 
@@ -145,8 +145,6 @@ Any subsequent changes to the dataset-sharing arrangements, code, analysis decis
 
 ## AI Assistance
 
-AI assistance was used to Python code, and support troubleshooting. 
-
-Executed outputs, arithmetic checks, rejected or revised advice, and independent verification before final submission.
+AI assistance was used to Python code, and troubleshooting support. 
 
 
